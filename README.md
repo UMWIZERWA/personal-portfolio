@@ -1,8 +1,7 @@
 
 # personal-portfolio
-##hello world
 ## Description
-My project portfolio, concluding my name ,my picture,  my project created ,my background and my current interests and hobies/skill.
+personal-portfolio, including my name ,my picture,  my project created ,my background and my current interests and hobies/skill.
 ## My project created:
 * personal-portfolio
 * hello-world
