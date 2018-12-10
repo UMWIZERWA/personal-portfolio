@@ -18,9 +18,8 @@ body{
           text-transform: uppercase;
           text-decoration:underline;
           flex-wrap:wrap;
-          display:block;
           color: black;
-          text-align: right;
+          text-align:right;
           
         }
       nav>ul>li>a:hover {
@@ -61,21 +60,21 @@ body{
  }
 
 .fa-facebook {
-  color: white;
+  color: brown;
 }
 .fa-github {
 
-    color: white;
+    color: brown;
   }
   .fa-yahoo{
-      color: white;
+      color: brown;
   }
   .fa-Gmail{
-      color: white;
+      color: brown;
   }
   .fa-linkedin {
 
-    color: white;
+    color: brown;
   }
   .social{
     text-align: center;
