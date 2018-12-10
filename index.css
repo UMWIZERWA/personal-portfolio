@@ -20,6 +20,7 @@ body{
           flex-wrap:wrap;
           display:block;
           color: black;
+          text-align: right;
           
         }
       nav>ul>li>a:hover {
