@@ -50,3 +50,32 @@ body{
   #two{
       font-size: 160%;
   }
+  .fa {
+    padding: 5px;
+    font-size: 10px;
+    width: 5px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+ }
+
+.fa-facebook {
+  color: white;
+}
+.fa-github {
+
+    color: white;
+  }
+  .fa-yahoo{
+      color: white;
+  }
+  .fa-Gmail{
+      color: white;
+  }
+  .fa-linkedin {
+
+    color: white;
+  }
+  .social{
+    text-align: center;
+  }
