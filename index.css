@@ -12,6 +12,9 @@ body{
   ul>li{
        display:inline-block;
        }
+       nav>ul{
+           text-align: right;
+       }
       nav>ul>li>a {
           padding:8px;
           margin-right: 60px;
@@ -69,8 +72,8 @@ body{
   .fa-yahoo{
       color: brown;
   }
-  .fa-Gmail{
-      color: brown;
+  .fa-youtube {
+    color: brown;
   }
   .fa-linkedin {
 
