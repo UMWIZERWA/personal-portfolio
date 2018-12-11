@@ -51,6 +51,9 @@ body{
   #two{
       font-size: 160%;
   }
+  #two ul li{
+  font-style: unset;
+  }
   .fa {
     padding: 5px;
     font-size: 10px;
